@@ -1,5 +1,5 @@
 # placement-predection
-I will try to do detailed Exploratory data analysis(EDA) on Student Placement Dataset with Visualization. 
+I will try to analyzie on Student Placement Dataset with Visualization. 
 Extract different Insights from data that will be helpful for Fresh candidates. 
 At the end I will Create Machine Learning Model that predicts whether a particular candidate got placement or not based on some feature.
 Need to Importing Libraries.
